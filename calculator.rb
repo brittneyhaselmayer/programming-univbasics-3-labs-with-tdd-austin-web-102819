@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = "sup"
+first_number = 10
